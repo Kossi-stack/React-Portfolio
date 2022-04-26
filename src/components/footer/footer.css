@@ -44,7 +44,7 @@ footer a {
 .footer__socials a:hover {
     background: transparent;
     color: var(--color-bg);
-    border-color: var(--color-bg);
+    border-color: var(--color-bg) ;
 }
 
 /*=================MEDIA QUERIES MEDUIM DEVICES ===============*/
@@ -67,6 +67,6 @@ footer a {
    }
 
    .footer__socials {
-       margin-bottom: 2.6rem;
+       margin-bottom: 2.6rem ;
    }
 }
